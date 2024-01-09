@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guillemotclement" alt="guillemotclement" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **PHP, symfony and React**
 
 - 👨‍💻 All of my projects are available at [http://clementguillemot.fr/](http://clementguillemot.fr/)
 
