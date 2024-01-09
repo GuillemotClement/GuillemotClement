@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PHP, symfony and React**
 
-- 👨‍💻 All of my projects are available at [http://clementguillemot.fr/](http://clementguillemot.fr/)
+- 👨‍💻 All of my projects are available at [http://clementguillemot.fr/](http://clementguillemot.fr/) - en construction
 
 - 📫 How to reach me **guillemot.clement@protonmail.com**
 
