@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guillemotclement" alt="guillemotclement" /></a> </p>
 
-- 🌱 I’m currently learning **PHP**
-
 - 👨‍💻 All of my projects are available at [http://clementguillemot.fr/](http://clementguillemot.fr/)
 
 - 📫 How to reach me **guillemot.clement@protonmail.com**
