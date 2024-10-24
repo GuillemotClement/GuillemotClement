@@ -3,4 +3,4 @@
 
 You can contact me : **guillemot.clement@protonmail.com**
 
-More detail in [GuillemotClement](https://guillemotclement.github.io/)
+[//]: More detail in [GuillemotClement](https://guillemotclement.github.io/) -> en cours
